@@ -14,7 +14,7 @@ function johnLennonFacts() {
   var newFacts = [];
   var i = 0;
   while (i < 4) {
-    newFacts[i] = facts[i] += "!!!");
+    newFacts[i] = facts[i] +="!!!";
     i++;
   }
   return newFacts;
