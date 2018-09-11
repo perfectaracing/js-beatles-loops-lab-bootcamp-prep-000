@@ -21,8 +21,8 @@ function johnLennonFacts(facts) {
 }
 function iLoveTheBeatles() {
   var beatleLines = [];
-  do-while (i < 15) {
-    beatleLines[i] = beatleLines[i] + 
+  do (i < 15) {
+    beatleLines
     
   }
   return beatleLines;
