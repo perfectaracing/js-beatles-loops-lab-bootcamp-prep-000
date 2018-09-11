@@ -19,4 +19,3 @@ function johnLennonFacts() {
   }
   console.log(facts);
 }
-johnLennonFacts(facts)
