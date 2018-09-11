@@ -21,7 +21,7 @@ function johnLennonFacts(facts) {
 }
 function iLoveTheBeatles() {
   var beatleLines = [];
-  do (i < 15) {
+  do {
     beatleLines
     
   }
