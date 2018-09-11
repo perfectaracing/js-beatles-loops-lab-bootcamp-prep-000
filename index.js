@@ -20,6 +20,11 @@ function johnLennonFacts(facts) {
   return newFacts;
 }
 function iLoveTheBeatles() {
-  
+  var beatleLines = [];
+  do-while (i < 15) {
+    beatleLines[i] = beatleLines[i] + 
+    
+  }
+  return beatleLines;
 }
 
