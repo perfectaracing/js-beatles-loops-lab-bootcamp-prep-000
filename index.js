@@ -26,7 +26,8 @@ function iLoveTheBeatles(num) {
     n++;}
     while
     (num < 15); 
+    return array;
   }
-  return beatleLines;
-}
+
+
 
