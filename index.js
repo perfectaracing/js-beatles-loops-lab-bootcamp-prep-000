@@ -19,5 +19,5 @@ function johnLennonFacts(facts) {
   }
   return newFacts;
 }
-console.log(johnLennonFacts(facts));
+
 
